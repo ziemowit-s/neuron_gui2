@@ -3,3 +3,5 @@ Jupyter Notebook which shows the new capabilities of GUI2 for NEURON. Downloaded
 
 run ball-and-stick-1.ipynb for GUI2 examples
 
+![connection-example](connection_example.png)
+
